@@ -37,6 +37,6 @@
 ## 📫 Contacto
 
 - 💼 LinkedIn: [tu-perfil](https://www.linkedin.com/in/TU-USUARIO)
-- ✉️ Email: tu-email@ejemplo.com
+- ✉️ Email: ivanmarquezs00@gmail.com
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
