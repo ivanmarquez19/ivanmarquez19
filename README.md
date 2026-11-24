@@ -1,7 +1,6 @@
 # ¡Hola! Soy Iván Márquez 👋
 
 💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Donoso Cortés (Don Benito, Badajoz)
-🛠️ Técnico en **Sistemas Microinformáticos y Redes** (2023–2025)
 🎯 Busco incorporarme a un equipo de **soporte técnico, sistemas o desarrollo de software**
 🛒 Gestiono tiendas online en Shopify y llevo un canal de YouTube de curiosidades
 
